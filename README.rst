@@ -9,3 +9,4 @@ Instalacao:
 
 Facin Facin... :)
 Muito obrigado: https://github.com/jpetazzo/django 
+E ao site: https://www.dotcloud.com
